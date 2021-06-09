@@ -31,8 +31,10 @@ Agile for innovation			Improved security				Efficient
 ```
 
 3. 
-	- Monolithic architecture: If all the functionalities of a project exists in a single codebase
+	- Monolithic architecture: If all the functionalities of a project exists in a single codebase.
+	[image](https://media.geeksforgeeks.org/wp-content/uploads/20200322175817/monolithic.jpg)
 	- 2-Tier architecture: in DBMS is a database architecture where the presentation layer runs on a client device and data is stored on a server called the second tier. Two tier architecture provides added security to the DBMS as it is not exposed to the end-user directly. It also provides direct and faster communication.
 	[image](https://www.guru99.com/images/1/091318_0745_DBMSArchite2.png)
-	- It is an architectural development style in which the application is made up of smaller services communicating with each other direclty using light weight protocols like HTTP
+	- It is an architectural development style in which the application is made up of smaller services communicating with each other direclty using light weight protocols like HTTP. Instead of sharing a single database with other microservices, each microservice has its own database. This allows microservices to use the type of database best suited for its needs.
+	[image](https://media.geeksforgeeks.org/wp-content/uploads/20200322182733/microservices.jpg)
 
