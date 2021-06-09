@@ -4,7 +4,7 @@
 
 1. What are the benefits of DevOps and how can we utilise them? (provide use cases or examples)
 2. What is public cloud, Hybrid cloud and private cloud? (use cases)
-3. What is Monolith Architecture, 2 tier and Micro-services Architecture (use cases and benefits)
+3. What is Monolithic Architecture, 2 tier and Micro-services Architecture (use cases and benefits)
 
 ## Answers
 
@@ -31,11 +31,11 @@ Agile for innovation			Improved security				Efficient
 ```
 
 3. 
-	- If all the functionalities of a project exists in a single codebase, then that application is known as monolithic application.
+	- Monolithic architecture: If all the functionalities of a project exists in a single codebase, then that application is known as monolithic application.
 	[image](https://media.geeksforgeeks.org/wp-content/uploads/20200322175817/monolithic.jpg)
 	- 2-Tier architecture: in DBMS is a database architecture where the presentation layer runs on a client device and data is stored on a server called the second tier. Two tier architecture provides added security to the DBMS as it is not exposed to the end-user directly. It also provides direct and faster communication.
 	[image](https://www.guru99.com/images/1/091318_0745_DBMSArchite2.png)
-	- It is an architectural development style in which the application is made up of smaller services communicating with each other direclty using light weight protocols like HTTP. Instead of sharing a single database with other microservices, each microservice has its own database. This allows microservices to use the type of database best suited for its needs.
+	- Micro-srvices architecture: It is an architectural development style in which the application is made up of smaller services communicating with each other direclty using light weight protocols like HTTP. Instead of sharing a single database with other microservices, each microservice has its own database. This allows microservices to use the type of database best suited for its needs.
 	[image](https://media.geeksforgeeks.org/wp-content/uploads/20200322182733/microservices.jpg)
 
 ## Extra information
