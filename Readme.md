@@ -38,3 +38,7 @@ Agile for innovation			Improved security				Efficient
 	- It is an architectural development style in which the application is made up of smaller services communicating with each other direclty using light weight protocols like HTTP. Instead of sharing a single database with other microservices, each microservice has its own database. This allows microservices to use the type of database best suited for its needs.
 	[image](https://media.geeksforgeeks.org/wp-content/uploads/20200322182733/microservices.jpg)
 
+## Extra information
+
+- Netlix story [link](https://about.netflix.com/en/news/completing-the-netflix-cloud-migration)
+
