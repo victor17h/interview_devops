@@ -9,8 +9,8 @@
 ## Answers
 
 1.	
-	- Ease of use: If the team is told to do something, this could be deliver within days or weeks not months
-	- Flexibility: If the team is told to do something, this could be deliver within days or weeks not months
+	- Ease of use: One of the primary benefits is the quick and stable solution to technical errors in software management. Additionally, improves work environment with a steady and well-balanced approach of operations.
+	- Flexibility: If the team is told to do something, this could be deliver within days or weeks not months. This is could be achieved by detecting and correcting problems quickly and efficiently as the flaws are repeatedly tested through automation, the team gets more time in framing new ideas.
 	- Roubustness: Promotes agility and scalaility to the business which can help to stay ahead in the market 
 	- Cost: Cut down management and production costs as both maintenance and new updates are brought under a broader single umbrella
 
@@ -31,7 +31,7 @@ Agile for innovation			Improved security				Efficient
 ```
 
 3. 
-	- Monolithic architecture: If all the functionalities of a project exists in a single codebase.
+	- If all the functionalities of a project exists in a single codebase, then that application is known as monolithic application.
 	[image](https://media.geeksforgeeks.org/wp-content/uploads/20200322175817/monolithic.jpg)
 	- 2-Tier architecture: in DBMS is a database architecture where the presentation layer runs on a client device and data is stored on a server called the second tier. Two tier architecture provides added security to the DBMS as it is not exposed to the end-user directly. It also provides direct and faster communication.
 	[image](https://www.guru99.com/images/1/091318_0745_DBMSArchite2.png)
