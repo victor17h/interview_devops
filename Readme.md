@@ -11,7 +11,7 @@
 1.	
 	- Ease of use: One of the primary benefits is the quick and stable solution to technical errors in software management. Additionally, improves work environment with a steady and well-balanced approach of operations.
 	- Flexibility: If the team is told to do something, this could be deliver within days or weeks not months. This is could be achieved by detecting and correcting problems quickly and efficiently as the flaws are repeatedly tested through automation, the team gets more time in framing new ideas.
-	- Roubustness: Promotes agility and scalaility to the business which can help to stay ahead in the market 
+	- Robustness: Promotes agility and scalaility to the business which can help to stay ahead in the market 
 	- Cost: Cut down management and production costs as both maintenance and new updates are brought under a broader single umbrella
 
 
